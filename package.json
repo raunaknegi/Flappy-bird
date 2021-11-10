@@ -1,0 +1,12 @@
+{
+  "name": "FlappyBird",
+  "version": "0.0.1",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
